@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinhonglin-ryan&label=Profile%20views&color=0e75b6&style=flat" alt="jinhonglin-ryan" /> </p>
 
-- 🔭 I’m currently working on **Retrieval-Augmented Generation (RAG) at Pinduoduo | Backend Development @ Capybara.AI (AI-Finance)**
+- 🔭 I’m currently working on **Retrieval-Augmented Generation (RAG) @ Pinduoduo | Software Engineer-Backend Development @ Capybara.AI (AI-Finance)**
 
 - 🌱 I’m currently learning **Machine Learning (Stanford CS229)**
 
