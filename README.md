@@ -14,13 +14,12 @@
   - **Software Engineer Intern @ Capybara.AI**  
     - Built a concurrent system for real-time news collection, analysis, and sentiment scoring.  
     - Designed industry-specific clustering algorithms and engineered tools for financial analysis, integrating sentiment analysis into sector-wide predictions.  
-
-  - **Full-Stack Developer @ Ecowise (Hackathon Project)**  
-    - Developed an energy-saving chatbot using **GPT-3.5** to provide personalized tips and quizzes.  
-    - Deployed the website using **React3Fiber** for an immersive user interface and Flask for backend APIs.
    
   - **Multimodal Machine Learning Engineer Intern @ Vipshop**  
-    - Fine-tuned **VisualGLM’s Q-Former** with advanced attention masking techniques, reducing attribute mismatches by **6.79%**.  
+    - Fine-tuned **VisualGLM’s Q-Former** with advanced attention masking techniques, reducing attribute mismatches by **6.79%**.
+   
+  - **Full-Stack Developer @ Ecowise (Hackathon Project)**  
+    - Developed an energy-saving chatbot using **GPT-3.5** to provide personalized tips and quizzes.  
 
 - 🌱 I’m currently learning **Machine Learning (Stanford CS229)**  
 - 📫 How to reach me: **jinhonglin0801@gmail.com**  
