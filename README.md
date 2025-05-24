@@ -6,9 +6,10 @@
 - 💼 I’m currently a **Software Engineering Intern @ Google**  
   - Interning on the GCP team in the Greater Seattle Area in Summer 2025.
 
-- 🧠 Previously, I was a **Software Engineer Intern @ Zilliz**
+- 🔭 Previously, I was a **Software Engineer Intern @ Zilliz**
   - Co-developed [**DeepSearcher**](https://github.com/zilliztech/deep-searcher), a Retrieval-Augmented Generation (RAG) framework with **6k+ GitHub stars**, designed for private data QA using LLMs and the Milvus vector database.
-  - Integrated **Milvus Vector Database** into 20+ open-source projects, authored docs & tutorials to drive developer adoption and community engagement, and enhanced existing Milvus integrations by incorporating BM25-based full-text search for hybrid lexical-semantic retrieval and migrating from the legacy ORM SDK to the new `MilvusClient` SDK.
+  - Integrated **Milvus Vector Database** into 20+ open-source projects and authored docs & tutorials to drive developer adoption and community engagement.
+  - Enhanced existing Milvus integrations by incorporating BM25-based full-text search for hybrid lexical-semantic retrieval and migrating from the legacy ORM SDK to the new `MilvusClient` SDK.
 
 - 🧠 Earlier Experiences:
   - **Machine Learning Engineer Intern @ Pinduoduo**
