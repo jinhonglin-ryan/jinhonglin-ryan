@@ -11,7 +11,7 @@
   - Integrated **Milvus Vector Database** into 20+ open-source projects and authored docs & tutorials to drive developer adoption and community engagement.
   - Enhanced existing Milvus integrations by incorporating BM25-based full-text search for hybrid lexical-semantic retrieval and migrating from the legacy ORM SDK to the new `MilvusClient` SDK.
 
-- 🧠 Earlier Experiences:
+- 🧠 Earlier Work Experiences:
   - **Machine Learning Engineer Intern @ Pinduoduo**
     - Enhanced **mContriever models** for AI-powered shopping assistants, achieving a **+27% recall** and **+21% F1 score**.  
     - Developed embedding pipelines and optimized RAG generation, reducing latency by **7.6%**.  
@@ -22,9 +22,6 @@
   - **Multimodal Machine Learning Engineer Intern @ Vipshop**  
     - Fine-tuned **VisualGLM’s Q-Former** with advanced attention masking techniques, reducing attribute mismatches by **6.79%**.
    
-  - **Full-Stack Developer @ Ecowise (Hackathon Project)**  
-    - Developed an energy-saving chatbot using **GPT-3.5** to provide personalized tips and quizzes.  
-
 - 🛠 Notable Projects:
   - [**Interview AI**](https://github.com/jinhonglin-ryan/interviewai): Resume-aware mock interview platform with OpenAI TTS/STT, ELO scoring, AI-suggested answers, and flashcard review.
 
